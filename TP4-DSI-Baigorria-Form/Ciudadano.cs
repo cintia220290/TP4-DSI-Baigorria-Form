@@ -8,6 +8,7 @@ namespace TP4_DSI_Baigorria_Form
 {
     class Ciudadano
     {
+        
         private string nombreApellido;
         private Int64 dni;
         private string domicilio;
